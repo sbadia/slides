@@ -1,0 +1,37 @@
+\documentclass[11pt,final,usepdftitle=false,handout]{beamer}
+\mode<presentation>
+\usetheme{lucasw}
+\usepackage{tikz}
+\usepackage{tikz-bpmn}
+\usepackage{textpos}
+\usepackage{verbatim}
+\usetikzlibrary{positioning}
+\hypersetup{pdftitle={OpenStack 101}}
+\title[OpenStack 101]{OpenStack 101}
+\author[Sébastien Badia]{Sébastien Badia\\ \texttt{sebastien.badia@enovance.com}\\[0.5em]}
+\institute{eNovance -- 2 avril 2014\\
+\vskip 3em
+\begin{columns}[b]
+\begin{column}{1cm}
+\end{column}
+\begin{column}{3cm}
+	\centerline{\includegraphics[height=1cm]{img/logo-eNovance-2011}}
+\end{column}
+\begin{column}{1cm}
+\end{column}
+\end{columns}
+}
+\date{}
+
+\begin{document}
+\frame{\titlepage}
+\begin{frame}{Outline}
+  \tableofcontents[hideallsubsections]
+\end{frame}
+
+\input{1-cloud-computing}
+\input{2-openstack}
+\input{3-technical-side}
+\input{4-deploy-tips-learn}
+
+\end{document}

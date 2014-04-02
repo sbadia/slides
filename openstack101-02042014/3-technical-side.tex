@@ -9,16 +9,22 @@
 
 \subsection{OpenStack IaaS}
 \begin{frame}{OpenStack IaaS}
-  \begin{itemize}
-    \item Compute: Nova
-    \item Images: Glance
-    \item Identity: Keystone
-    \item Storage: Swift (object), Cinder (block)
-    \item Networking: Neutron
-    \item Dashboard: Horizon
-    \item Telemetry: Ceilometer
-    \item Orchestration: Heat
-  \end{itemize}
+  \begin{center}
+    IaaS component vs. OpenStack component
+  \begin{center}
+    \medskip
+  \end{center}
+  \begin{tabular}{lll}
+    Compute & \Fleche & Nova \\
+    Images & \Fleche & Glance \\
+    Identity & \Fleche & Keystone \\
+    Storage & \Fleche & Swift (object), Cinder (block) \\
+    Networking & \Fleche & Neutron \\
+    Dashboard & \Fleche & Horizon \\
+    Telemetry & \Fleche & Ceilometer \\
+    Orchestration & \Fleche & Heat \\
+  \end{tabular}
+  \end{center}
 \end{frame}
 
 \subsection{Openstack architecture}

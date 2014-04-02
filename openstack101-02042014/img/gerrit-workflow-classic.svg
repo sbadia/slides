@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="481.1293"
+   height="341.67999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="gerrit-workflow-classic.pdf">
+  <title
+     id="title6620">Git workflow</title>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path4279"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4403"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL"
+       style="overflow:visible">
+      <path
+         id="path4394"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(-0.8,-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4261"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4264"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1330281"
+     inkscape:cx="173.39316"
+     inkscape:cy="179.29147"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1364"
+     inkscape:window-height="747"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Git workflow</dc:title>
+        <dc:date>2013/06/05</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sebastien Badia</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Public Domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:source>scm.gforge.inria.fr:/gitroot/sed-ncy/sed-ncy.git</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>GIT</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-114.89872,-266.13587)">
+    <g
+       id="g4209"
+       transform="translate(-11.080627,-15.572692)">
+      <g
+         transform="translate(-4.4129531,-0.44129531)"
+         id="g4129">
+        <rect
+           style="opacity:0.65;fill:none;stroke:none"
+           id="rect2985"
+           width="230.91174"
+           height="127.31349"
+           x="245.88982"
+           y="400.81659"
+           ry="17.444633" />
+        <rect
+           style="opacity:0.65;fill:none;stroke:none"
+           id="rect2989"
+           width="235.90443"
+           height="134.80254"
+           x="259.61969"
+           y="378.34952"
+           ry="0" />
+        <rect
+           ry="0"
+           y="378.34952"
+           x="259.61969"
+           height="134.80254"
+           width="235.90443"
+           id="rect2991"
+           style="fill:#d4e9a9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           xml:space="preserve"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           x="261.11108"
+           y="409.13849"
+           id="text4125"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4127"
+             x="261.11108"
+             y="409.13849">Git</tspan></text>
+      </g>
+      <g
+         id="g4203">
+        <rect
+           style="fill:#fff8e7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect4136"
+           width="163.72057"
+           height="67.518181"
+           x="293.06833"
+           y="423.07507"
+           ry="17.210518" />
+        <text
+           xml:space="preserve"
+           style="font-size:17.75px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="317.38412"
+           y="450.63727"
+           id="text4138"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4140"
+             x="317.38412"
+             y="450.63727">Authoritative</tspan><tspan
+             sodipodi:role="line"
+             x="317.38412"
+             y="472.82477"
+             id="tspan4142">Repository</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3038">
+      <rect
+         ry="17.210518"
+         y="539.79767"
+         x="431.80746"
+         height="67.518181"
+         width="163.72057"
+         id="rect4136-4"
+         style="fill:#fff8e7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4222"
+         y="579.901"
+         x="497.08347"
+         style="font-size:17.75px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="579.901"
+           x="497.08347"
+           id="tspan4224"
+           sodipodi:role="line">Ken</tspan></text>
+    </g>
+    <g
+       id="g3033">
+      <rect
+         ry="17.210518"
+         y="266.63586"
+         x="115.39872"
+         height="67.518181"
+         width="163.72057"
+         id="rect4136-8"
+         style="fill:#fff8e7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4226"
+         y="307.01221"
+         x="168.12057"
+         style="font-size:17.75px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="307.01221"
+           x="168.12057"
+           id="tspan4228"
+           sodipodi:role="line">Barbie</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-mid:none;marker-end:none"
+       d="M 352.85214,361.45294 C 350.42596,324.70108 335.786,297.32836 279.60978,297.08524"
+       id="path4253"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4209"
+       inkscape:connection-start-point="d4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart)"
+       d="m 366.59703,500.64241 c 6.61003,30.79481 0.2177,61.22205 62.95479,71.81111"
+       id="path4255"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4209"
+       inkscape:connection-start-point="d4"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="338.7807"
+       y="310.81058"
+       id="text6213"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6215"
+         x="338.7807"
+         y="310.81058">Fetch/Push</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="310.92676"
+       y="567.43579"
+       id="text6213-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6215-1"
+         x="310.92676"
+         y="567.43579">Fetch/Push</tspan></text>
+  </g>
+</svg>
